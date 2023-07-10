@@ -14,3 +14,8 @@ After which, the user can proceed to their preferred web browser and navigate to
 localhost:8080
 ```
 Here, they will be able to commence a conversation with ChatGPT.
+
+Also, another controller is used to generate a CSV file. The end-point is the following:
+```agsl
+localhost:8080/generate-csv
+```
